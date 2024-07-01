@@ -1,0 +1,18 @@
+{
+  "name": "demojs",
+  "version": "1.0.0",
+  "description": "just a simple working directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "demox"
+  },
+  "author": "osaroDEV",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
